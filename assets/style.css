@@ -271,6 +271,11 @@ form .btn2{
     margin-top: 20px;
     cursor: pointer;
 }
+
+.social-icons {
+    color: red;
+    font-size: 200px;
+}
 /* -----------------css for small screens--------- */
 nav .fas{
     display: none;
